@@ -1,0 +1,149 @@
+ul {
+   
+    list-style-type: none;
+    float:right;
+    margin-right;
+    width:%;
+     
+}
+
+a{
+margin-top:40%;
+text-decoration: none;
+color: black;
+}
+    
+h2{
+    margin-top:150px;
+    font-family: 'Open Sans', sans-serif;;
+
+}
+.logo {
+    float: left;
+    width: 40%;
+}
+
+.header{
+    background:orange;
+    padding:40px;
+}
+
+li{
+    display:inline;
+    margin:5px;
+    padding:10px 10px;
+    font-family:"Open Sans";
+
+}
+h4{
+    font-family: 'Open Sans', sans-serif;;
+
+}
+
+nav{
+    font-family: 'Open Sans', sans-serif;
+}
+.clearfix {
+    clear:both;
+}
+.danger {color:black; 
+    font-family: 'Open Sans', sans-serif;
+   background-color:black;
+    color:white;
+    border-radius:25px;
+    padding:16px;
+     }
+        
+
+/*p{
+    float:left;
+    border-left:black solid 2px;
+    padding-left:2px;
+    width:50%;
+    border:50px black;*/
+
+
+.down{
+    
+    position: fixed;
+    bottom: 10px;
+    font-family:"Open Sans";
+    left: 60%;
+    margin-left: -185.5px;
+    background-color:black;
+    color:white;
+    border-radius:70px;
+    padding:19px;
+    align-content:center;
+
+     }
+ .down:hover {background:white;} 
+
+
+.circlebag{
+    float:right;
+    position:relative;
+    height:500px;
+    width:500px;
+}
+
+p {
+    border-left: 2px solid #69696a;
+    padding-left:10px;
+    width:43%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+
+
+
+  #circle {
+      width: 160px;
+      height: 160px;
+      -webkit-border-radius: 80px;
+      -moz-border-radius: 80px;
+      border-radius: 80px;
+      background:rgba(207, 130, 213, 0.6);
+      position:absolute;
+      right:89px;
+      top:-90px;
+      
+    }
+
+
+  #circle1 {
+      width: 220px;
+      height: 220px;
+      -webkit-border-radius: 140px;
+      -moz-border-radius: 140px;
+      border-radius: 140px;
+      background:rgba(247, 193, 162, 0.7) ;
+      position:absolute;
+      right:44px;
+      bottom:150px;
+      top:44px;
+     
+    }
+
+
+  #circle2 {
+      width: 350px;
+      height:350px;
+      -webkit-border-radius: 170px;
+      -moz-border-radius: 170px;
+      border-radius: 170px;
+      background:rgba(247, 136, 167, 0.6);
+      position:absolute;
+      left: -6px;
+      top:-110px;
+
+    
+    }
+
+
+
+
+
